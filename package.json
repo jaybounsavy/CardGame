@@ -1,0 +1,26 @@
+{
+  "name": "cardgame",
+  "version": "1.0.0",
+  "description": "Card Game for Players",
+  "main": "CardGame.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/jaybounsavy/CardGame.git"
+  },
+  "keywords": [
+    "game"
+  ],
+  "author": "Jay Bounsavy",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/jaybounsavy/CardGame/issues"
+  },
+  "homepage": "https://github.com/jaybounsavy/CardGame#readme",
+  "dependencies": {
+    "chai": "^4.3.7",
+    "mocha": "^10.2.0"
+  }
+}
